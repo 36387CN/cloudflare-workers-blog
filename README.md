@@ -1,6 +1,6 @@
 > 这是一个运行在cloudflare workers 上的博客程序,使用 cloudflare KV作为数据库,无其他依赖.
 兼容静态博客的速度,以及动态博客的灵活性,方便搭建不折腾.很稳定
-演示地址: [https://blog.gezhong.vip](https://blog.gezhong.vip "cf-blog演示站点")
+演示地址: [https://blog.36387.cn](https://blog.36387.cn "cf-blog演示站点")
 
 ### TG 讨论群: [@CloudflareBlog](https://t.me/cloudflareblog "")
 # 主要特点
@@ -17,7 +17,7 @@
  * 文章数:1G存储空间,几万篇问题不大
 
 # 部署步骤
-  这里没有实时预览真难受,一系列坑会慢慢填到博客,敬请关注 [https://blog.gezhong.vip](https://blog.gezhong.vip "")
+  这里没有实时预览真难受,一系列坑会慢慢填到博客,敬请关注 [https://www.bilibili.com/video/BV1qDsYe5ECP "")
 
 # 更新日志
 
@@ -36,8 +36,3 @@
 ### 后端演示:
 ![](https://s3.ax1x.com/2020/12/22/rrAWrD.png)
 
-## 捐赠
-
-如果你觉的本项目帮到你了，还请资持一下作者
-
-* [捐赠](https://afdian.net/@zhaopp "爱发电")  
